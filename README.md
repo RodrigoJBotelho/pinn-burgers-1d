@@ -78,7 +78,7 @@ tests/           testes da referência e do PINN
 
 ## Resultados
 
-Cole aqui as métricas e as figuras geradas pelo workflow **treino**, informando a data, a
+As métricas e as figuras geradas pelo workflow **treino**, informando a data, a
 semente e o ambiente (por exemplo, `ubuntu-latest`, CPU).
 
 ## Limitações
